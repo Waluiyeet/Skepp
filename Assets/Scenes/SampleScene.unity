@@ -182,7 +182,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 8930830}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.1, y: -0.02, z: 0}
+  m_LocalPosition: {x: -0.698, y: 0.018, z: 0}
   m_LocalScale: {x: 2.7760153, y: 2.2288566, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -291,6 +291,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 339fe7474328f374485b4124851d0a10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  "Hastighetframm\xE5t": 10
+  "Sv\xE4nghastighet": 180
 --- !u!212 &48559903
 SpriteRenderer:
   m_ObjectHideFlags: 0
